@@ -8,6 +8,7 @@ tasks:
 vscode:
   extensions:
     - dbaeumer.vscode-eslint
+    - svelte.svelte-vscode
 ports:
   - port: 3000
     onOpen: open-browser
